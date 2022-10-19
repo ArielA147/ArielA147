@@ -4,16 +4,11 @@
 <div>
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Ariel Alexi</h1>
 
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <p align="center">
-    <a href="https://github.com/ArielA147/readme-typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer%20;BCs%20Student%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-  </p>
-
-  ## ⚡️⚡️ A Few Quick Facts About Me
+   ## ⚡️⚡️ A Few Quick Facts About Me
 
   - 🏢 I'm currently working at Gawian GmbH and in Bar Ilan University. <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">.
-  - 🌱 I’m currently learning Clojure and ClojureScript Web developing.
+  - 🌱 I’m master degree student at the [Information Science Department, Bar-Ilan University](https://www.biu.ac.il/en) under the supervision of [Dr. Ariel Rosenfeld](https://arielrosenfeld.com/) from Bar Ilan and [Dr. Teddy Lazebnik](https://teddylazebnik.info/) from UCL. 
+
   - 📫 Reach me: [Ariel Alexi on Linkedin](https://www.linkedin.com/in/ariel-alexi/).
   - 👨‍💻 Most of my projects are available on [Github](https://github.com/ArielA147).
   - ⚡ Fun fact: I am blog posting my journy from OOP world into functional world (Clojure) at [Lambdaisland website](https://lambdaisland.com/blog).
@@ -22,6 +17,4 @@
   
   
    <br/> 
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ArielA147's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ArielA147&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </div>
