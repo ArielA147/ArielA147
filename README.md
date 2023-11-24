@@ -12,9 +12,5 @@
   - 📫 Reach me: [Ariel Alexi on Linkedin](https://www.linkedin.com/in/ariel-alexi/).
   - 👨‍💻 Most of my projects are available on [Github](https://github.com/ArielA147).
   - ⚡ Fun fact: I am blog posting my journy from OOP world into functional world (Clojure) at [Lambdaisland website](https://lambdaisland.com/blog).
-
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ariela147&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=buefy" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariela147&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=buefy" />
-  
-  
    <br/> 
 </div>
